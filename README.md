@@ -1,5 +1,6 @@
 # todolist
 
+This is our first Flutter project( my first project entirely tho :sweat_smile:
 A new Flutter project.
 
 ## Getting Started
